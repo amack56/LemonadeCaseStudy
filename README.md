@@ -35,7 +35,7 @@ In a broader sense some of the technologies Lemonade is implementing are machine
 ## Landscape:
 
 * **What domain of the financial industry is the company in?**\
-Insurance. More specifically Insurtech. 
+Insurance. More specifically, Insurtech. 
 
 * **What have been the major trends and innovations of this domain over the last 5-10 years?**\
 Since the advent of the internet and especially since the tech boom of the late 90s insurance companies have worked to make their products availabile online. However, bogged down by the relative complexity and vareity of products these companies struggled to make all their products comparable and immediately quotable in this fashion. With the recent advancement in AI and machine learning technologies as well as the increasing use of smartphones and apps over tradtiional web browsers, insurtech companies like Lemonade have made the same policies and products available but increased to comparability, user experience, and speed at which this information can be obtained. 
@@ -76,6 +76,7 @@ Other major companies in the Insurtech domain include Next Insurance, Zipari, Me
 * https://stackshare.io/lemonade/lemonade
 * https://builtin.com/fintech/insurtech-companies
 * https://www.mckinsey.com/industries/financial-services/our-insights/insurtech-the-threat-that-inspires
+* https://www.investopedia.com/terms/i/insurtech.asp
 
 
 
