@@ -1,5 +1,5 @@
 # FinTech Case Study
-![Company Logo](./lemonade-1.png) 
+![Company Logo](./images/lemonade-1.png) 
 ## Overview and Origin
 
 * **Name of company**\
