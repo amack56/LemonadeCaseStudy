@@ -12,7 +12,7 @@ April 2015
 Daniel Schreiber (former president of Powermat Technologies), Shai Wininger (co-founder of Fiverr) and Ty Sagalow
 
 * **How did the idea for the company (or project) come about?**\
-Schreiber and Wininger, both veterans of running start-ups and eager for a new opportunity, met in 2015. Schreiber was considering opportunites in the insurance field because he assumed the age-old industry was ripe for disruption. After meeting Wininger, who happened to be a coding and design whiz, the two began drawing out what their millennial-focused user would want to see in an insurance company (i.e. user friendly, non-human based interaction, quick and transparent transactions, etc.).
+Schreiber and Wininger, both veterans of running start-ups and eager for a new opportunity, met in 2015. Schreiber was considering opportunities in the insurance field because he assumed the age-old industry was ripe for disruption. After meeting Wininger, who happened to be a coding and design whiz, the two began drawing out what their millennial-focused user would want to see in an insurance company (i.e. user friendly, non-human based interaction, quick and transparent transactions, etc.).
 
 
 * **How is the company funded? How much funding have they received?**\
